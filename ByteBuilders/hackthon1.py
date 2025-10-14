@@ -9,5 +9,5 @@ def function(iterable):
 	if len(elements) == max(length_list):
 		return  elements
 
-print(function("The Quick brown fox jumped"))
+function("The Quick brown fox jumped")
 		
